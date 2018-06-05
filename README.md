@@ -1,6 +1,6 @@
 # flutter_crud_app
 
-A new Flutter application.
+Sample Flutter application.
 
 ## Getting Started
 
